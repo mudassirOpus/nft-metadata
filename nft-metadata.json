@@ -2,10 +2,10 @@
   "attributes": [
     {
       "symbol": "CC",
-      "value": "15"
+      "value": "50"
     }
   ],
-  "description": "CommonCoin NFT - 1000 CC",
-  "image": "ipfs://QmT9XXmCmzGHhcUTjE9NPjWtgykfXxwdcPvd4pK541sbKR",
-  "name": "CommonCoin"
+  "description": "CommonCoin NFT - 50 CC",
+  "image": "ipfs://QmdeA6w9YDJNt6a1PcJg8vU99YiUESiEpgLfSAxHyvrxL9",
+  "name": "CommonCoinDynamic"
 }
